@@ -1,2 +1,0 @@
-# industrial-training-
-Python code
